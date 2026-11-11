@@ -18,6 +18,11 @@ export const metadata: Metadata = {
     "FastAPI",
     "Network Monitoring",
   ],
+
+  verification: {
+    google: "URSyZqXhtJcCe85M9kDsxVQZPxqhi3kgraLGhM4UzdA",
+  },
+  
   openGraph: {
     title: "Collins Steve Njagi — Software & Network Engineer",
     description:
